@@ -1,4 +1,4 @@
-# adianti-snippets
+# Snippets Adianti
 Snippets de Adianti para o VsCode
 
 Para instalar basta copiar o arquivo e jogar dentro da sua pasta de snippets, ou se preferir clone o repositório deretamente nela e assim você também pode contribuir para o crescimento do código enviando suas modificações
